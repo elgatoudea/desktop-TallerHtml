@@ -1,5 +1,5 @@
-# Welcome to GitHub Desktop!
+# Bienvenidos al Taller de HTML de Informática Avanzada!
 
-This is your README. READMEs are where you can communicate what your project is and how to use it.
+Puedes leer el PDF TALLER DE HTML - RELIGION y encontraras todas las instrucciones que se deben cumplir con el trabajo.
 
-Write your name on line 6, save it, and then head back to GitHub Desktop.
+Se realizo el taller con una plantilla de Colorlib de manera Gratuita, este trabajo solo es académico.
